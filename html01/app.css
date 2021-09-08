@@ -1,0 +1,105 @@
+<!Doctype html><html><head><style>link {
+    color: white;
+}
+
+a {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+.left {
+    margin-left: 20px;
+}
+
+#right {
+    float: right;
+}
+
+header {
+    background-color: #696969;
+    padding: 10px;
+}
+
+img {
+    float: right;
+}
+
+h2 {
+    color: #FF8C00;
+    text-align: left;
+}
+
+div {
+    font-size: 18px;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+    background-color: #696969;
+    color: white;
+    padding: 10px;
+}
+
+ul {
+    font-size: 18px;
+}
+
+.information {
+    column-count: 3;
+    column-rule: 1px dashed lightblue;
+    text-align: left;
+}
+
+form {
+    background-color: #f2f2f2;
+    border: 10px;
+    padding: 10px;
+    line-height: 2;
+    font-size: 18px;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+input[type=text],
+select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #FF8C00;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    border-color: #FF8C00;
+    height: 40px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+</style>
